@@ -1,6 +1,9 @@
 
 /* Start here */
     
+
+
+
 .love {
     font-family: sans-serif;
     font-size: 50px;
@@ -130,6 +133,28 @@
     margin-left: 1px;
     line-height: 40px;
 }
+
+
+
+.next {
+    position: fixed;
+    font-family: sans-serif;
+    margin-left: 1240px;
+    color:cadetblue;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.back {
+    position: fixed;
+    font-family: sans-serif;
+    margin-left: 1200px;
+    color:darksalmon;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+
 
 
 
