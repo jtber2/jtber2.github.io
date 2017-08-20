@@ -1,14 +1,6 @@
 
 /* Start here */
 
-.next {
-    position: fixed;
-    font-family: sans-serif;
-    margin-left: 1240px;
-    color:cadetblue;
-    font-weight:bold;
-    font-size: 20px;
-}
 
 .back {
     position: fixed;
@@ -19,129 +11,120 @@
     font-size: 20px;
 }
 
-.vert {
-    margin-left: 175px;
-    font-family: sans-serif;
-    font-size: 14px;
+
+.l {
+    font-family: serif;
+    margin-left: 360px;
+    position: absolute;
+    color: dimgray;
+    font-size: 250px;
+    
+}
+
+.a {
+    font-family: serif;
+    margin-left: 410px;
+    position: absolute;
+    color: black;
+    font-size: 350px;
+    margin-top: 50px;
     font-weight: bold;
-    letter-spacing: 2px;
 }
 
-.aa {
-    margin-left: 740px;
+.u {
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    color: darkslategray;
+    font-size: 100px;
+    transform: rotate(90deg);
+    margin-left: 560px;
+    margin-top: 140px;
+    border: 1px solid darkslategray;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+.g {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    position: absolute;
+    color: darkseagreen;
+    margin-left: 650px;
+    margin-top: 250px;
+    
     
 }
 
-.band {
-    margin-left: 740px;
+
+.h {
     font-family: sans-serif;
-    font-size: 13px;
-    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 190px;
+    position: absolute;
+    color: lightslategray;
+    margin-left: 750px;
+    transform: rotate(90deg);
+    margin-top: 175px;
 }
 
-.bb {
-    margin-left: 1000px;
-
+.circle {
+    border: 2px dashed darkseagreen;
+    height: 220px;
+    width: 220px;
+    border-radius: 220px;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 185px;
 }
 
-.cc {
-    margin-left: 568px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
+.line {
+    letter-spacing: 1px;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 150px;
 }
 
-.dd {
-    margin-left: 568px;
-    
+.diamond {
+    transform: rotate(90deg);
+    position: absolute;
+    margin-left: 109px;
+    margin-top: 154px;
 }
 
-.ee {
-    margin-left: 570px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
+.line1 {
+    letter-spacing: 1px;
+    position: absolute;
+    margin-left: 890px;
+    margin-top: 235px;
 }
 
-.ff {
-    margin-left: 910px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-    
+.diamond1 {
+    transform: rotate(90deg);
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 239px;
 }
 
-.gg {
-    margin-left: 272px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
+.line2 {
+    letter-spacing: 1px;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 180px;
 }
 
-.hh {
-    margin-left: 270px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-    
+.diamond2 {
+    transform: rotate(90deg);
+    position: absolute;
+    margin-left: 209px;
+    margin-top: 184px;
 }
 
-.ii {
-    margin-left: 272px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-.jj {
-    margin-left: 948px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
 
-.kk {
-    margin-left: 630px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
 
-.jj {
-    margin-left: 948px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
 
-.ll {
-    margin-left: 630px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.mm {
-    margin-left: 315px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.nn {
-    margin-left: 315px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.box {
-    background-color: black;
-    margin-left: 307px;
-}
-.box2 {
-    background-color: black;
-    margin-left: 167px;
-}
 
 
 
