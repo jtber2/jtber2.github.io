@@ -19,129 +19,126 @@
     font-size: 20px;
 }
 
-.vert {
-    margin-left: 175px;
+.c {
     font-family: sans-serif;
-    font-size: 14px;
+    font-size: 70px;
     font-weight: bold;
-    letter-spacing: 2px;
-}
-
-.aa {
-    margin-left: 740px;
+    position: absolute;
+    margin-left: 275px;
+    letter-spacing: 80px;
+    color: rosybrown;
+    position: absolute;
     
 }
 
-.band {
-    margin-left: 740px;
+.breaks {
     font-family: sans-serif;
-    font-size: 13px;
-    letter-spacing: 2px;
-}
-
-.bb {
-    margin-left: 1000px;
-
-}
-
-.cc {
-    margin-left: 568px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.dd {
-    margin-left: 568px;
+    font-size: 70px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 275px;
+    margin-top: 160px;
+    letter-spacing: 80px;
+    color: rosybrown;
+    position: absolute;
     
 }
 
-.ee {
-    margin-left: 570px;
-    letter-spacing: 2px;
+.cab {
     font-family: sans-serif;
-    font-size: 13px;
-}
-
-.ff {
-    margin-left: 910px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
+    font-size: 70px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 380px;
+    letter-spacing: 80px;
+    color: burlywood;
+    position: absolute;
     
 }
 
-.gg {
-    margin-left: 272px;
-    letter-spacing: 2px;
+.ride {
     font-family: sans-serif;
-    font-size: 13px;
-}
-
-.hh {
-    margin-left: 270px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
+    font-size: 70px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 540px;
+    letter-spacing: 80px;
+    color: burlywood;
+    position: absolute;
     
 }
 
-.ii {
-    margin-left: 272px;
-    letter-spacing: 2px;
+.green {
     font-family: sans-serif;
-    font-size: 13px;
-}
-.jj {
-    margin-left: 948px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.kk {
-    margin-left: 630px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
+    font-size: 70px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 760px;
+    letter-spacing: 80px;
+    color: darkseagreen;
+    position: absolute;
+    
 }
 
-.jj {
-    margin-left: 948px;
-    letter-spacing: 2px;
+.room {
     font-family: sans-serif;
-    font-size: 13px;
+    font-size: 70px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 334px;
+    margin-top: 920px;
+    letter-spacing: 80px;
+    color: darkseagreen;
+    position: absolute;
+    
 }
 
-.ll {
-    margin-left: 630px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.mm {
-    margin-left: 315px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
-
-.nn {
-    margin-left: 315px;
-    letter-spacing: 2px;
-    font-family: sans-serif;
-    font-size: 13px;
-}
 
 .box {
-    background-color: black;
-    margin-left: 307px;
+    height: 350px;
+    width: 350px;
+    border: 1px solid black;
+    position: fixed;
+    margin-left: 450px;
+    margin-top: 40px;
 }
+
 .box2 {
-    background-color: black;
-    margin-left: 167px;
+    height: 350px;
+    width: 350px;
+    border: 1px solid black;
+    position: fixed;
+    margin-left: 450px;
+    margin-top: 35px;
+    transform: rotate(45deg)
 }
+
+.real {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-top: 195px;
+    margin-left: 470px;
+    position: fixed;
+    letter-spacing: 4px;
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

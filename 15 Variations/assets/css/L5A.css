@@ -19,186 +19,61 @@
     font-size: 20px;
 }
 
+
+
+
 .b {
     font-family: sans-serif;
-    font-size: 500px;
     font-weight: bold;
-    margin-left: 100px;
-    color:darkseagreen;
-    margin-left: 450px;
-    position: fixed;
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin-left: 560px;
+    margin-top: 100px;
+    position: absolute;
+    color: darkblue;
 }
 
 .b {
-    transform: rotateX(250deg);
+    transform: rotate(250deg)
+}
+
+.br {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin-left: 620px;
+    margin-top: 130px;
+    color: darkblue;
+    position: absolute;
+    transform: rotate(200deg)
     
 }
 
-.diamond {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 100px;
-    margin-left: 575px;
+.bre {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 3px;
+    margin-left: 650px;
+    margin-top: 125px;
+    color:darkblue;
+    position: absolute;
+    transform: rotate(120deg)
+    
 }
 
-
-.diamond {
-    transform: rotate(45deg)
-}
-
-.diamond2 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 130px;
-    margin-left: 575px;
-}
-
-
-.diamond2 {
-    transform: rotate(45deg)
-}
-
-.diamond3 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 160px;
-    margin-left: 575px;
-}
-
-
-.diamond3 {
-    transform: rotate(45deg)
-}
-
-.diamond4 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 190px;
-    margin-left: 575px;
-}
-
-
-.diamond4 {
-    transform: rotate(45deg)
-}
-
-.diamond5 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 220px;
-    margin-left: 575px;
-}
-
-
-.diamond5 {
-    transform: rotate(45deg)
-}
-
-.diamond6 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 250px;
-    margin-left: 575px;
-}
-
-
-.diamond6 {
-    transform: rotate(45deg)
-}
-.diamond7 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 280px;
-    margin-left: 575px;
-}
-
-
-.diamond7 {
-    transform: rotate(45deg)
-}
-
-.diamond8 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 310px;
-    margin-left: 575px;
-}
-
-
-.diamond8 {
-    transform: rotate(45deg)
-}
-
-.diamond9 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 340px;
-    margin-left: 575px;
-}
-
-
-.diamond9 {
-    transform: rotate(45deg)
-}
-
-.diamond10 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 370px;
-    margin-left: 575px;
-}
-
-
-.diamond10 {
-    transform: rotate(45deg)
-}
-
-.diamond11 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 400px;
-    margin-left: 575px;
-}
-
-
-.diamond11 {
-    transform: rotate(45deg)
-}
-
-.diamond12 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 430px;
-    margin-left: 575px;
-}
-
-
-.diamond12 {
-    transform: rotate(45deg)
+.brea {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 3px;
+    margin-left: 610px;
+    margin-top: 155px;
+    color:darkblue;
+    position: absolute;
+    transform: rotate(82deg)
+    
 }
 
 .break {
@@ -206,360 +81,309 @@
     font-weight: bold;
     font-size: 30px;
     letter-spacing: 3px;
-    margin-left: 615px;
-    margin-top: 370px;
-    position: fixed;
+    margin-left: 640px;
+    margin-top: 170px;
+    color:darkblue;
+    position: absolute;
+    transform: rotate(82deg)
+    
 }
 
-.break2 {
+.breaki {
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 40px;
     letter-spacing: 3px;
-    margin-left: 615px;
+    margin-left: 620px;
+    margin-top: 190px;
+    color:darkblue;
+    position: absolute;
+    transform: rotate(98deg)
+    
+}
+
+.breakit {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    letter-spacing: 3px;
+    margin-left: 620px;
+    margin-top: 220px;
+    color:darkblue;
+    position: absolute;
+    transform: rotate(120deg)
+    
+}
+
+.dot {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 70px;
+}
+
+.dot2 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 508px;
+    margin-top: 85px;
+}
+
+.dot3 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 115px;
+}
+
+.dot4 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 150px;
+}
+
+.dot5 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 508px;
+    margin-top: 180px;
+}
+
+.dot6 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 195px;
+}
+
+.dota {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 1150px;
+}
+
+.dotb {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 658px;
+    margin-top: 1165px;
+}
+
+.dotc {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 1195px;
+}
+
+.dotd {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 1230px;
+}
+
+.dote {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 658px;
+    margin-top: 1260px;
+}
+
+.dotf {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 1275px;
+}
+
+
+.s {
+    letter-spacing: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 470px;
+    margin-left: 120px;
+    color: darkblue;
+}
+
+.dot7 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 620px;
+    margin-top: 280px;
+}
+
+.dot8 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 310px;
+}
+
+.dot9 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 340px;
+}
+
+.dot10 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 560px;
     margin-top: 370px;
-    color: beige;
+}
+
+.dot11 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 540px;
+    margin-top: 400px;
+}
+
+.dot12 {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 430px;
+}
+
+.circle {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: 430px;
+    line-height: 3px;
+}
+
+
+.bend {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-left: 650px;
+    margin-top: 620px;
+    color:darkblue;
+    position: absolute;
+    transform-origin: bottom center;
+    padding-bottom: 100px;
+    
+}
+
+#b {
+    transform: rotate(15deg);
+}
+
+#e {
+    transform: rotate(30deg);
+}
+
+#n {
+    transform: rotate(45deg);
+}
+
+#d {
+    transform: rotate(60deg);
+}
+
+#space {
+    transform: rotate(75deg);
+}
+
+#i {
+    transform: rotate(90deg);
+}
+
+#t {
+    transform: rotate(100deg);
+}
+
+
+.crack {
+    margin-top: 490px;
+    margin-left: 660px;
+}
+
+.foldit {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 650px;
+    color: darkblue;
+    position: absolute;
+    
+}
+
+#fo {
+    transform: skewX(30deg);
     position: absolute;
 }
 
-
-.diamond13 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 575px;
+#ld {
+    transform: skewX(-30deg);
+    margin-left: 650px;
+    position: absolute;
+    margin-top: 25px;
 }
 
-
-.diamond13 {
-    transform: rotate(45deg)
+#it {
+    transform: skewX(30deg);
+      margin-left: 650px;
+    position: absolute;
+    margin-top: 50px;
 }
 
-.diamond14 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 545px;
+#fo2 {
+    transform: skewX(30deg);
+    margin-top: 75px;
 }
 
-
-.diamond14 {
-    transform: rotate(45deg)
+#ld2 {
+    transform: skewX(-30deg);
+    margin-left: 650px;
+    position: absolute;
+    margin-top: 100px;
 }
 
-.diamond15 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 515px;
+#it2 {
+    transform: skewX(30deg);
+      margin-left: 650px;
+    position: absolute;
+    margin-top: 125px;
 }
 
-
-.diamond15 {
-    transform: rotate(45deg)
-}
-
-.diamond16 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 485px;
-}
-
-
-.diamond16 {
-    transform: rotate(45deg)
-}
-
-.diamond17 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 455px;
-}
-
-
-.diamond17 {
-    transform: rotate(45deg)
-}
-
-.diamond18 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 425px;
-}
-
-
-.diamond18 {
-    transform: rotate(45deg)
-}
-
-.diamond19 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 395px;
-}
-
-
-.diamond19 {
-    transform: rotate(45deg)
-}
-
-.diamond20 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 365px;
-}
-
-
-.diamond20 {
-    transform: rotate(45deg)
-}
-
-.diamond21 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 335px;
-}
-
-
-.diamond21 {
-    transform: rotate(45deg)
-}
-
-.diamond22 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 305px;
-}
-
-
-.diamond22 {
-    transform: rotate(45deg)
-}
-
-.diamond23 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 275px;
-}
-
-
-.diamond23 {
-    transform: rotate(45deg)
-}
-
-.diamond24 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 460px;
-    margin-left: 245px;
-}
-
-
-.diamond24 {
-    transform: rotate(45deg)
-}
-
-.diamond25 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
+.vert {
+    font-size: 13px;
+    color: burlywood;
+    position: absolute;
+    margin-left: 620px;
+    line-height: 20px;
     margin-top: 490px;
-    margin-left: 245px;
 }
-
-
-.diamond25 {
-    transform: rotate(45deg)
-}
-
-.diamond26 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 520px;
-    margin-left: 245px;
-}
-
-
-.diamond26 {
-    transform: rotate(45deg)
-}
-
-.diamond27 {
-    width: 10px;
-    height: 10px;
-    background-color: black;
-    position: fixed;
-    margin-top: 550px;
-    margin-left: 245px;
-}
-
-
-.diamond27 {
-    transform: rotate(45deg)
-}
-
-
-.Stretch {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 235px;
-    margin-top: 570px;
-    position: fixed;
-}
-
-.Stretch2 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 250px;
-    margin-top: 570px;
-    position: fixed;
-}
-
-.Stretch3 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 275px;
-    margin-top: 570px;
-    position: fixed;
-}
-
-.Stretch4 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 300px;
-    margin-top: 570px;
-    position: fixed;
-}
-
-.Stretch5 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 335px;
-    margin-top: 570px;
-    position: fixed;
-}
-
-.Stretch6 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 235px;
-    margin-top: 570px;
-    position:absolute;
-    color: darksalmon;
-}
-
-.Stretch7 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 250px;
-    margin-top: 570px;
-    position:absolute;
-    color: darksalmon;
-}
-
-.Stretch8 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 275px;
-    margin-top: 570px;
-    position:absolute;
-    color: darksalmon;
-}
-
-.Stretch9 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 300px;
-    margin-top: 570px;
-    position:absolute;
-    color: darksalmon;
-}
-
-
-.Stretch10 {
-    font-size: 80px;
-    font-weight: bold;
-    font-family: sans-serif;
-    margin-left: 335px;
-    margin-top: 570px;
-    position:absolute;
-    color: darksalmon;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
